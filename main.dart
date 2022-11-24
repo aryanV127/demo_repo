@@ -6,4 +6,5 @@ void main() {
   if (b == 0) {
     print("Hello");
   }
+  print('Hello World');
 }
