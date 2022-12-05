@@ -4,7 +4,7 @@ void main() {
   }
   int b = 0;
   if (b == 0) {
-    print("Hello");
+    print("Hello World");
   }
   print('Hello World');
 }
